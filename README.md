@@ -12,7 +12,7 @@
 ### 使用方法
 
 **参数配置：**</br>1、校园网账号</br>2、校园网密码</br>3、校园网后台登录域名</br>4、校园网wlanacname</br></br>
-连接校园网，浏览器打开http://1.1.1.1跳转到域名</br>
+连接校园网，浏览器打开http://1.1.1.1 跳转到域名</br>
 http://11.11.11.11/webauth.do?wlanacname=XXXX&wlanuserip=111.111.111.111&mac=AA:BB:CC:DD:EE:FF&url=http://1.1.1.1
 </br>
 </br>**校园网后台登录域名是http://11.11.11.11**</br>
