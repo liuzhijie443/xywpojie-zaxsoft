@@ -117,6 +117,7 @@ def login():
                         print("登录状态：联网成功！")
                         print("登录状态：联网成功！")
                         print("登录状态：联网成功！")
+                        input("\n\n")
                         exit()
                     else:
                         print("登录状态：登录失败！")
