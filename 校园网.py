@@ -1,7 +1,6 @@
 import requests
 import json
 import socket
-import uuid
 import time
 import re
 import sys
