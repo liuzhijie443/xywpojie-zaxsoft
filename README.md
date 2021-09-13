@@ -22,7 +22,7 @@ http://11.11.11.11/webauth.do?wlanacname=XXXX&wlanuserip=111.111.111.111&mac=AA:
 ### 注意事项
 
 使用之前请确保校园网的认证系统是石斧软件的。</br>
-广西某大学可用。</br>
+南宁职业技术学院可用。</br>
 登录界面如下。</br>
 ![image](https://user-images.githubusercontent.com/25584923/133069824-525be46d-1d7f-427f-9c0f-47fefa6b9456.png)</br>
 ![image](https://user-images.githubusercontent.com/25584923/133063578-25ee380d-26dc-4401-a55d-e509367b0a3f.png)</br>
