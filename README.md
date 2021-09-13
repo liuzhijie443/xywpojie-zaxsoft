@@ -15,7 +15,7 @@
 连接校园网，浏览器打开1.1.1.1跳转到域名</br>
 http://11.11.11.11/webauth.do?wlanacname=XXXX&wlanuserip=111.111.111.111&mac=AA:BB:CC:DD:EE:FF&url=http://1.1.1.1
 </br>
-</br>**校园网后台登录域名是11.11.11.11**</br>
+</br>**校园网后台登录域名是http://11.11.11.11**</br>
 **校园网wlanacname是XXXX**</br>
 
 ***
