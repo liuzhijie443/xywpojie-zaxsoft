@@ -23,10 +23,29 @@ http://11.11.11.11/webauth.do?wlanacname=XXXX&wlanuserip=111.111.111.111&mac=AA:
 ### 注意事项
 
 使用之前请确保校园网的认证系统是石斧软件的。</br>
-南宁职业技术学院可用。</br>
 登录界面如下。</br>
 ![image](https://user-images.githubusercontent.com/25584923/133069824-525be46d-1d7f-427f-9c0f-47fefa6b9456.png)</br>
 ![image](https://user-images.githubusercontent.com/25584923/133063578-25ee380d-26dc-4401-a55d-e509367b0a3f.png)</br>
 ![image](https://user-images.githubusercontent.com/25584923/133063751-d099ef3c-6fcd-44d5-b31f-225cb0f1a2cd.png)</br>
 ![image](https://user-images.githubusercontent.com/25584923/133063876-5a5b64e2-2339-4e24-943b-738712829b8f.png)
 
+### 可用学校
+
+南宁职业技术学院</br>
+
+### 可能可以用的学校
+
+西南财经大学天府学院</br>
+四川农业大学</br>
+成都中医药大学</br>
+四川音乐学院</br>
+宜宾学院</br>
+西南科技大学城市学院</br>
+四川理工学院</br>
+广西职业技术学院</br>
+四川水利职业技术学院</br>
+广西师范大学漓江学院</br>
+广西工商职业技术学院</br>
+广西卫生职业技术学院</br>
+广西桂林电子科技大学北海校区</br>
+广西医科大学武鸣校区</br>
