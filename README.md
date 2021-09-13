@@ -31,8 +31,8 @@ http://11.11.11.11/webauth.do?wlanacname=XXXX&wlanuserip=111.111.111.111&mac=AA:
 
 ### 可用学校
 
-南宁职业技术学院</br>
 广西职业师范学院</br>
+南宁职业技术学院</br>
 
 ### 可能可以用的学校
 
