@@ -1,6 +1,7 @@
 # xywpojie-zaxsoft
 ### 目标
 
+![I57E(A9O0DA7U@C4CVXM{%S](https://user-images.githubusercontent.com/25584923/133072808-b70b0b13-0064-4fb1-a8ae-7b7390f849f1.png)
 一个简单的python脚本，用于解除/破解校园网只能登录一台手机和一台电脑的限制，仅供学习。
 
 ***
