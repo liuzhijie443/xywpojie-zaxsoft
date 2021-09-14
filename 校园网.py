@@ -137,7 +137,7 @@ def logout():
     distoken = data["distoken"]
     print("distoken:",distoken)
     time.sleep(2)
-    r2 = x.get(xywhost+"/httpservice/appoffline.do?wlanacip=&wlanacname="+ wlanacname +"&userId=" + userid + "&passwd=" + passwd + "&mac=&wlanuserip=&distoken="+ distoken)
+    r2 = x.get(xywhost+"/httpservice/appoffline.do?wlanacip=&wlanacname="+ wlanacname +"&userId=" + userid + "&passwd=" + passwd + "&mac=&wlanuserip=" + ip + "&distoken="+ distoken)
     data = json.loads(r2.text)
     message = data["message"]
     print("下线状态:",message)
